@@ -1,6 +1,7 @@
 #include <iostream>
 
 int main() {
+    // This is a test comment
     double score;
     auto sum = 0.0;
     auto finished = false;
